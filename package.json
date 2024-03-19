@@ -1,0 +1,23 @@
+{
+  "name": "portfolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tsparticles/vue2": "^3.0.0",
+    "@tsparticles/vue3": "^3.0.1",
+    "tsparticles": "^3.3.0",
+    "tsparticles-engine": "^2.12.0",
+    "vue": "^3.4.21",
+    "vue3-particles": "^2.12.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.1.6"
+  }
+}
